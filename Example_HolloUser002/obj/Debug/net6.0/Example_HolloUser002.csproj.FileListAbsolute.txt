@@ -1,0 +1,15 @@
+C:\Users\гоша\Desktop\Examples\Example_HolloUser002\bin\Debug\net6.0\Example_HolloUser002.exe
+C:\Users\гоша\Desktop\Examples\Example_HolloUser002\bin\Debug\net6.0\Example_HolloUser002.deps.json
+C:\Users\гоша\Desktop\Examples\Example_HolloUser002\bin\Debug\net6.0\Example_HolloUser002.runtimeconfig.json
+C:\Users\гоша\Desktop\Examples\Example_HolloUser002\bin\Debug\net6.0\Example_HolloUser002.dll
+C:\Users\гоша\Desktop\Examples\Example_HolloUser002\bin\Debug\net6.0\Example_HolloUser002.pdb
+C:\Users\гоша\Desktop\Examples\Example_HolloUser002\obj\Debug\net6.0\Example_HolloUser002.csproj.AssemblyReference.cache
+C:\Users\гоша\Desktop\Examples\Example_HolloUser002\obj\Debug\net6.0\Example_HolloUser002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\гоша\Desktop\Examples\Example_HolloUser002\obj\Debug\net6.0\Example_HolloUser002.AssemblyInfoInputs.cache
+C:\Users\гоша\Desktop\Examples\Example_HolloUser002\obj\Debug\net6.0\Example_HolloUser002.AssemblyInfo.cs
+C:\Users\гоша\Desktop\Examples\Example_HolloUser002\obj\Debug\net6.0\Example_HolloUser002.csproj.CoreCompileInputs.cache
+C:\Users\гоша\Desktop\Examples\Example_HolloUser002\obj\Debug\net6.0\Example_HolloUser002.dll
+C:\Users\гоша\Desktop\Examples\Example_HolloUser002\obj\Debug\net6.0\refint\Example_HolloUser002.dll
+C:\Users\гоша\Desktop\Examples\Example_HolloUser002\obj\Debug\net6.0\Example_HolloUser002.pdb
+C:\Users\гоша\Desktop\Examples\Example_HolloUser002\obj\Debug\net6.0\Example_HolloUser002.genruntimeconfig.cache
+C:\Users\гоша\Desktop\Examples\Example_HolloUser002\obj\Debug\net6.0\ref\Example_HolloUser002.dll
